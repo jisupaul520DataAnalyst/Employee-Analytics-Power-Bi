@@ -156,13 +156,11 @@ Focuses on salary distribution and compensation-related analysis.
 ## Dashboard Screenshots
 
 ### 1. Executive Overview
-![Executive Overview](Screenshots/Executive%20Overview.png)
-
+Executive Overview.png
 ### 2. Workforce Composition
-![Workforce Composition](Screenshots/Workforce%20Composition.png)
-
+Workforce Composition.png
 ### 3. Salary & Pay Equity
-![Salary & Pay Equity](Screenshots/Salary%20%26%20Pay%20Equity.png)
+Salary & Pay Equity.png
 ## 11. Key Business Insights
 
 Based on the dashboard:
