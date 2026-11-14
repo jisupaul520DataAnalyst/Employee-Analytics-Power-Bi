@@ -202,17 +202,15 @@ These recommendations indicate areas for further analysis rather than confirmed 
 - The dashboard does not establish the causes of salary differences.
 - Detailed DAX formulas and transformation steps require verification from the PBIX file.
 
-## 14. Project Files
+## 📁 Project Files
 
 | File | Description |
 |---|---|
-| `Employee Analytics Dashboard.pbix` | Power BI source project |
-| `Employee Analytics Dashboard.pdf` | Exported dashboard |
-| `Employee_Insights_Report _.pdf` | Employee analytics insights report |
-| `Employees Data.xlsx` | Employee dataset, subject to privacy clearance |
-| `Executive Overview.png` | Executive dashboard screenshot |
-| `Workforce Composition.png` | Workforce dashboard screenshot |
-| `Salary & Pay Equity.png` | Salary dashboard screenshot |
+| [Power BI Dashboard (.pbix)](./Employee%20Analytics%20Dashboard.pbix) | Download the editable Power BI project |
+| [Employee Insights Report (.pdf)](./Employee_Insights_Report_.pdf) | View the project analysis and insights |
+| [Employee Dataset (.xlsx)](./Employees%20Data.xlsx) | Download the Excel dataset |
+
+
 
 ## 15. Conclusion
 
