@@ -153,20 +153,16 @@ Focuses on salary distribution and compensation-related analysis.
 - Pay Gap by Gender
 - Location-wise Salary Cost
 
-## 10. Dashboard Screenshots
+## Dashboard Screenshots
 
-### Executive Overview
-
+### 1. Executive Overview
 ![Executive Overview](Screenshots/Executive%20Overview.png)
 
-### Workforce Composition
-
+### 2. Workforce Composition
 ![Workforce Composition](Screenshots/Workforce%20Composition.png)
 
-### Salary & Pay Equity
-
+### 3. Salary & Pay Equity
 ![Salary & Pay Equity](Screenshots/Salary%20%26%20Pay%20Equity.png)
-
 ## 11. Key Business Insights
 
 Based on the dashboard:
