@@ -107,13 +107,13 @@ The supplied dashboard displays the following headline metrics:
 
 | KPI | Value |
 |---|---:|
-| Total Employees | 242 |
+| Total Employees | 241 |
 | Total Salary | 19.19M |
 | Total FTE | 246.50 |
 | Average Salary | 69.51K |
-| Male Employees | 49.17% |
-| Female Employees | 50.41% |
-| FTE Gap | -4.50 |
+| Male Employees | 49.38% |
+| Female Employees | 50.62% |
+| FTE Gap | -5.50 |
 
 *Values are taken from the supplied dashboard PDF. Currency and salary units are not specified in the available dashboard.*
 
@@ -246,3 +246,5 @@ employee-analytics-powerbi/
 **Project Type:** Data Analytics & Business Intelligence
 
 **Purpose:** Data Analyst Portfolio Project
+Author
+Jisu Paul
